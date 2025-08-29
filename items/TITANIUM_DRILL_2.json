@@ -1,0 +1,9 @@
+{
+  "display_name": "§5Titanium Drill DR-X455",
+  "internal_name": "TITANIUM_DRILL_2",
+  "minecraft_item": "minecraft:prismarine_shard",
+  "base_stats": {
+    "breaking_power": 8
+  },
+  "damage": 0
+}

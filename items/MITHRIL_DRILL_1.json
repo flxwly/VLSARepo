@@ -1,0 +1,9 @@
+{
+  "display_name": "§9Mithril Drill SX-R226",
+  "internal_name": "MITHRIL_DRILL_1",
+  "minecraft_item": "minecraft:prismarine_shard",
+  "base_stats": {
+    "breaking_power": 5
+  },
+  "damage": 0
+}

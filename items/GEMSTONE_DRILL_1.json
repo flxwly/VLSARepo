@@ -1,0 +1,9 @@
+{
+  "display_name": "§9Ruby Drill TX-15",
+  "internal_name": "GEMSTONE_DRILL_1",
+  "minecraft_item": "minecraft:prismarine_shard",
+  "base_stats": {
+    "breaking_power": 7
+  },
+  "damage": 0
+}

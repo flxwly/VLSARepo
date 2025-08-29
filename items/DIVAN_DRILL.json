@@ -1,0 +1,9 @@
+{
+  "display_name": "§dDivan's Drill",
+  "internal_name": "DIVAN_DRILL",
+  "minecraft_item": "minecraft:prismarine_shard",
+  "base_stats": {
+    "breaking_power": 10
+  },
+  "damage": 0
+}

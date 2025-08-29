@@ -1,0 +1,9 @@
+{
+  "display_name": "§5Topaz Drill KGR-12",
+  "internal_name": "GEMSTONE_DRILL_3",
+  "minecraft_item": "minecraft:prismarine_shard",
+  "base_stats": {
+    "breaking_power": 9
+  },
+  "damage": 0
+}

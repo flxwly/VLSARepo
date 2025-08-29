@@ -1,0 +1,9 @@
+{
+  "display_name": "§9Gemstone Drill LT-522",
+  "internal_name": "GEMSTONE_DRILL_2",
+  "minecraft_item": "minecraft:prismarine_shard",
+  "base_stats": {
+    "breaking_power": 8
+  },
+  "damage": 0
+}
