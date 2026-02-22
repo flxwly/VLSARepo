@@ -1,6 +1,6 @@
 {
   "display_name": "§6Squeaky Mousemat",
   "internal_name": "SQUEAKY_MOUSEMAT",
-  "minecraft_item": "minecraft:skull",
+  "minecraft_item": "minecraft:player_head",
   "damage": 0
 }

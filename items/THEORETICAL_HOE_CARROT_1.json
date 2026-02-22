@@ -1,6 +1,5 @@
 {
   "display_name": "§fGauss Carrot Hoe",
   "internal_name": "THEORETICAL_HOE_CARROT_1",
-  "minecraft_item": "minecraft:stone_hoe",
-  "damage": 0
+  "minecraft_item": "minecraft:stone_hoe"
 }
